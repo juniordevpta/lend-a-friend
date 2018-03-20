@@ -4,7 +4,7 @@
 
 The first thing you will need to get going is to fork this repo. You can visit this page [for a detailed walkthrough](https://help.github.com/articles/fork-a-repo/).
 
-Next, you can clone the repo to a local machine. You can visit this page [for a detailed walkthrough](https://help.github.com/articles/fork-a-repo/).
+Next, you can clone the repo to a local machine. You can visit this page [for a detailed walkthrough](https://help.github.com/articles/cloning-a-repository/).
 
 We will be updating this file as the project progresses.
 
